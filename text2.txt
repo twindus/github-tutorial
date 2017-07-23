@@ -5,21 +5,20 @@ Sheldon: Interesting. You're afraid of insects and women. Ladybugs must render y
 
 Leonard: My point is, while you're spending all this time on your own, building computers or practicing your cello, 
 what you're really doing is becoming interesting. When people finally do notice you, they're gonna find someone a lot 
-cooler than they thought. And for those of you that were popular in high school, it's over, sorry. Thank you. Congratulations.
+cooler than they thought. And for those of you that were popular in high school, .....
 
 Sheldon: Amy's mad at me, and I'm not clear why. 
 Penny: Okay, were you talking before she got upset? 
 Sheldon: Yes. 
 Penny: That's probably it.
 
-Sheldon: Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, 
+Sheldon: Scissors cuts paper, paper, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, 
 scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, 
 rock crushes scissors.
 
-Stuart: Oh, Sheldon, I'm afraid you couldn't be more wrong.
+Stuart: Oh, Sheldon, I'm afraid y\ou couldn't be more wrong.
 Sheldon: More wrong? Wrong is an absolute state and not subject to gradation.
 Stuart: Of course it is. It's a little wrong to say a tomato is a vegetable, it's very wrong to say it's a suspension bridge.
-
 Howard: You know, I'm really glad you decided to learn Mandarin. 
 Sheldon: Why? 
 Howard: Once you're fluent, you'll have a billion more people to annoy instead of me.
