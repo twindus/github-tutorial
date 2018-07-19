@@ -1,4 +1,4 @@
-October arrived, spreading a damp chill over the grounds and into the castle. Madam Pomfrey, the nurse, was kept busy by a sudden
+"I changed the first line!" g a damp chill over the grounds and into the castle. Madam Pomfrey, the nurse, was kept busy by a sudden
 spate of colds among the staff and students. Her Pepperup potion worked instantly, though it left the drinker smoking at the ears
 for several hours afterward. Ginny Weasley, who had been looking pale, was bullied into taking some by Percy. The steam pouring from
 under her vivid hair gave the impression that her whole head was on fire.
@@ -48,4 +48,4 @@ Fuming, Nearly Headless Nick stuffed the letter away.
 "Half an inch of skin and sinew holding my neck on, Harry! Most people would think that's good and beheaded, but oh, no,
 it's not enough for Sir Properly Decapitated-Podmore."
 
-I made this change to this file.  
+I made this change to this file.
