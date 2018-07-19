@@ -1,0 +1,5 @@
+Git allows you to store and share files remotely
+It allows for a place to store files and edit others work.
+
+This is a great place to implement a place to keep my files
+for school and such.
