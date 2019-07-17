@@ -1,7 +1,7 @@
 Harry Potter and the Chamber of Secrets by: J. K. Rolling
-ISBN:
-Chapter:
-Page Number:
+ISBN: 100100590300, maybe
+Chapter: 17
+Page Number: 1475
 
 October arrived on a crazy Halloween day, spreading a damp chill over the grounds and into the castle. Madam Pomfrey, the nurse, was kept busy by a sudden 
 spate of colds among the staff and students. Her Pepperup potion worked instantly, though it left the drinker smoking at the ears 
@@ -43,7 +43,7 @@ times in the neck with a blunt axe would qualify you to join the Headless Hunt?"
 
 "I mean, nobody wishes more than I do that it had all been quick and clean, and my head had come off properly, I mean,
 it would have saved me a great deal of pain and ridicule. However -" Nearly Headless Nick shook his letter open and read
-furiously: "'We can only accept huntsmen whose heads have parted company with their bodies. You will appreciate that it would be
+furiously: "'We can only accept huntsmen whose heads have properly parted company with their bodies. You will appreciate that it would be
 impossible otherwise for members to participate in hunt activities such as Horseback Head-Juggling and Head Polo. It is with the
 greatest regret, therefore, that I must inform you that you do not fulfill our requirements. With very best wishes,
 Sir Patrick Delaney-Podmore.'"
