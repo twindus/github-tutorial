@@ -1,2 +1,2 @@
 # github-tutorial
-Set up for the Mercury workshop
+Set up for the MM-Tools workshop
